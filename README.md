@@ -1,6 +1,8 @@
 # Cryptography Course with Python: From Fundamentals to Practical Implementation.
 
-As a testament to our commitment to honesty and transparency, it is important to note that this course was written in collaboration with the AI language models Chat GPT and CoPilot. While we have worked hard to ensure the accuracy and quality of the content, we encourage all students to question and critically evaluate the tools they use and the information they receive. The pursuit of truth and knowledge is a shared responsibility and a fundamental mission of humanity."
+## About this course
+
+As a testament to our commitment to honesty and transparency, it is important to note that this course was written in collaboration with the AI language models Chat GPT and CoPilot. While we have worked hard to ensure the accuracy and quality of the content, we encourage all students to question and critically evaluate the tools they use and the information they receive. The pursuit of truth and knowledge is a shared responsibility and a fundamental mission of humanity.
 
 ## Description
 

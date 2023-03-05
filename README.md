@@ -11,3 +11,4 @@ This course on Python cryptography, which was offered by myself at the Universit
 ## Course Outline
 
 1. [Introduction to python and programming](https://github.com/asanchezyali/cryptography-course-with-python/blob/main/Notes/01_introduction_to_python_and_programming.ipynb)
+2. [Iterators and generators](https://github.com/asanchezyali/cryptography-course-with-python/blob/main/Notes/02_iteration_and_looping.ipynb)
